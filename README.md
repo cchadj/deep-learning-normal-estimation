@@ -1,6 +1,8 @@
 # Unstructured Point Cloud Normal Estimation Using Deep Learning
 
-This is the solution for the final coursework during my MSc at UCL for the module of "Acquisition And Processing of 3D geometry".</br>
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/22410337/222209969-33f01806-4bab-48ec-a9bf-8c88f89fdd55.png">
+
+*The model estimates for the normals of a synthetically generated pyramid. In this test example the pyramid point cloud is noisy and the CNN still has accurate results*
 
 # Problem Statement
 
