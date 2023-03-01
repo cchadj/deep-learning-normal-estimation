@@ -37,4 +37,6 @@ pytorch
 matplotlib
 ```
 
-For more information please read the report
+# Read the report
+
+For more information please read the [report](https://github.com/cchadj/deep-learning-normal-estimation/blob/main/FinalProject3DataAcquisitionReport.pdf)
